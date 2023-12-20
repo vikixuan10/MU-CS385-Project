@@ -1,7 +1,36 @@
- [{"qid": 1,"category":"Shopping and Everyday Items","behavior": {"action": "Using reusable bags","score": 5}},
-  {"qid": 2,"category":"Home Life and Personal Care","behavior": {"action": "Storing food in glass or steel containers","score": 5}},
-  {"qid": 3,"category": "Waste Management and Environmental Actions","behavior": {"action": "Proper waste sorting and recycling","score": 4}},
-  {"qid": 4,"category": "Travel and Social Activities","behavior": {"action": "Bringing personal water containers","score": 4}},
+ [
+  {
+   "qid": 1,
+   "category": "Shopping and Everyday Items",
+   "behavior": {
+    "action": "Using reusable bags",
+    "score": 5
+   }
+  },
+  {
+   "qid": 2,
+   "category":"Home Life and Personal Care",
+   "behavior": {
+    "action": "Storing food in glass or steel containers",
+    "score": 5
+   }
+  },
+  {
+   "qid": 3,
+   "category": "Waste Management and Environmental Actions",
+   "behavior": {
+    "action": "Proper waste sorting and recycling",
+    "score": 4
+   }
+  },
+  {
+   "qid": 4,
+   "category": "Travel and Social Activities",
+   "behavior": {
+    "action": "Bringing personal water containers",
+    "score": 4
+   }
+  },
   {
     "qid": 5,
     "category": "Shopping and Everyday Items",
