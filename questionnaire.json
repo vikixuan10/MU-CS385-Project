@@ -5,7 +5,7 @@
     "behavior": {
       "action": "Using reusable bags",
       "score": 5,
-    },
+    }
   },
   {
     "qid": 2,
@@ -13,7 +13,7 @@
     "behavior": {
       "action": "Storing food in glass or steel containers",
       "score": 5,
-    },
+    }
   },
   {
     "qid": 3,
@@ -21,7 +21,7 @@
     "behavior": {
       "action": "Proper waste sorting and recycling",
       "score": 4,
-    },
+    }
   },
   {
     "qid": 4,
@@ -29,7 +29,7 @@
     "behavior": {
       "action": "Bringing personal water containers",
       "score": 4,
-    },
+    }
   },
   {
     "qid": 5,
@@ -37,7 +37,7 @@
     "behavior": {
       "action": "Opting for glass or stainless steel bottles",
       "score": 5,
-    },
+    }
   },
   {
     "qid": 6,
@@ -45,7 +45,7 @@
     "behavior": {
       "action": "Avoiding overly packaged fast food",
       "score": 2,
-    },
+    }
   },
   {
     "qid": 7,
@@ -53,7 +53,7 @@
     "behavior": {
       "action": "Participating in community clean-ups",
       "score": 5,
-    },
+    }
   },
   {
     "qid": 8,
@@ -61,7 +61,7 @@
     "behavior": {
       "action": "Choosing reusable travel utensils",
       "score": 5,
-    },
+    }
   },
   {
     "qid": 9,
@@ -69,7 +69,7 @@
     "behavior": {
       "action": "Buying bulk items",
       "score": 2,
-    },
+    }
   },
   {
     "qid": 10,
@@ -77,7 +77,7 @@
     "behavior": {
       "action": "Choosing unpackaged food items",
       "score": 4,
-    },
+    }
   },
   {
     "qid": 11,
@@ -85,7 +85,7 @@
     "behavior": {
       "action": "Using biodegradable everyday items",
       "score": 4,
-    },
+    }
   },
   {
     "qid": 12,
@@ -93,7 +93,7 @@
     "behavior": {
       "action": "Using reusable toiletries",
       "score": 4,
-    },
+    }
   },
   {
     "qid": 13,
@@ -101,7 +101,7 @@
     "behavior": {
       "action": "Carrying reusable utensils",
       "score": 4,
-    },
+    }
   },
   {
     "qid": 14,
@@ -109,7 +109,7 @@
     "behavior": {
       "action": "Reducing cling film use",
       "score": 2,
-    },
+    }
   },
   {
     "qid": 15,
@@ -117,7 +117,7 @@
     "behavior": {
       "action": "Learning and using compostable and biodegradable products",
       "score": 4,
-    },
+    }
   },
   {
     "qid": 16,
@@ -125,7 +125,7 @@
     "behavior": {
       "action": "Utilizing reusable folders or files",
       "score": 3,
-    },
+    }
   },
   {
     "qid": 17,
@@ -133,7 +133,7 @@
     "behavior": {
       "action": "Using reusable straws",
       "score": 5,
-    },
+    }
   },
   {
     "qid": 18,
@@ -141,7 +141,7 @@
     "behavior": {
       "action": "Using reusable makeup pads or face cloths",
       "score": 4,
-    },
+    }
   },
   {
     "qid": 19,
@@ -149,7 +149,7 @@
     "behavior": {
       "action": "Choosing wooden or metal utensils and containers",
       "score": 4,
-    },
+    }
   },
   {
     "qid": 20,
@@ -157,7 +157,7 @@
     "behavior": {
       "action": "Preferring refillable pens and pen refills",
       "score": 3,
-    },
+    }
   },
   {
     "qid": 21,
@@ -165,7 +165,7 @@
     "behavior": {
       "action": "Purchasing items in bulk",
       "score": 2,
-    },
+    }
   },
   {
     "qid": 22,
@@ -173,7 +173,7 @@
     "behavior": {
       "action": "Preferring minimally or unpackaged personal care products",
       "score": 4,
-    },
+    }
   },
   {
     "qid": 23,
@@ -181,7 +181,7 @@
     "behavior": {
       "action": "Purchasing durable furniture and goods",
       "score": 3,
-    },
+    }
   },
   {
     "qid": 24,
@@ -189,7 +189,7 @@
     "behavior": {
       "action": "Using electronic documents and emails",
       "score": 5,
-    },
+    }
   },
   {
     "qid": 25,
@@ -197,7 +197,7 @@
     "behavior": {
       "action": "Using reusable coffee or water cups",
       "score": 4,
-    },
+    }
   },
   {
     "qid": 26,
@@ -205,7 +205,7 @@
     "behavior": {
       "action": "Opting for replaceable-head toothbrushes",
       "score": 3,
-    },
+    }
   },
   {
     "qid": 27,
@@ -213,7 +213,7 @@
     "behavior": {
       "action": "Opting for natural fiber curtains and decorations",
       "score": 1,
-    },
+    }
   },
   {
     "qid": 28,
@@ -221,6 +221,6 @@
     "behavior": {
       "action": "Utilizing natural fiber or reusable trash bags",
       "score": 3,
-    },
+    }
   },
-];
+]
